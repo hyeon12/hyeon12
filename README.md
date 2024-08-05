@@ -6,4 +6,4 @@
 ![css](https://img.shields.io/badge/css-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon12&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon12&show_icons=true&theme=graywhite)

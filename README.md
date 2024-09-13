@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&animation=fadeIn&height=150&section=header&text=hyeon&fontSize=90" />
 
-<b>📚 My Tech Stack 📚</b><br>
+###📚 My Tech Stack 📚
 🛠BackEnd Dev
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />

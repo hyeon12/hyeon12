@@ -29,4 +29,4 @@
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
 
-![hyeon12's github stats](https://github-readme-stats.vercel.app/api?username=hyeon12&show_icons=true&theme=gruvbox_light)
+![hyeon12's github stats](https://github-readme-stats.vercel.app/api?username=hyeon12&show_icons=true&theme=tokyonight)
